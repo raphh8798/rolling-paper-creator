@@ -23,7 +23,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-Postgres-00E599?style=flat-square&logo=postgresql&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-Images-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![Deploy](https://img.shields.io/badge/Deploy-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Deploy](https://img.shields.io/badge/Deploy-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Vibe Coded](https://img.shields.io/badge/Vibe_Coded-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 | 영역 | 사용 기술 |
@@ -33,7 +33,7 @@
 | 스타일 | Tailwind CSS |
 | 데이터베이스 | Neon (서버리스 Postgres) |
 | 이미지 | Cloudinary (커스텀 배경 업로드/전송) |
-| 배포 | Netlify |
+| 배포 | Vercel |
 
 
 ## 🚀 동작 방식
